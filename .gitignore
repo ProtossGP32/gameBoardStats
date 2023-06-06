@@ -1,0 +1,16 @@
+# IntelliJ
+**/.idea
+**/target
+**/._*
+**/*.iml
+# VSCode
+**/.vscode
+
+# Quarto
+**/_site
+
+# Vim
+**/*.swp
+
+# H2
+**/*.db
