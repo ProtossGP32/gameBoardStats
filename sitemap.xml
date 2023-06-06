@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cifoteam.github.io/gameBoardStats/index.html</loc>
-    <lastmod>2023-06-06T19:18:56.410Z</lastmod>
+    <loc>https://cifoteam.github.io/gameBoardStats/backend/uml.html</loc>
+    <lastmod>2023-06-06T21:29:10.434Z</lastmod>
   </url>
   <url>
-    <loc>https://cifoteam.github.io/gameBoardStats/about.html</loc>
-    <lastmod>2023-06-06T19:18:58.770Z</lastmod>
+    <loc>https://cifoteam.github.io/gameBoardStats/backend/rest-api-controllers.html</loc>
+    <lastmod>2023-06-06T21:29:11.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cifoteam.github.io/gameBoardStats/backend/classes.html</loc>
+    <lastmod>2023-06-06T21:29:12.734Z</lastmod>
   </url>
   <url>
     <loc>https://cifoteam.github.io/gameBoardStats/design/functional-diagrams.html</loc>
-    <lastmod>2023-06-06T19:18:59.214Z</lastmod>
+    <lastmod>2023-06-06T21:29:13.082Z</lastmod>
   </url>
   <url>
-    <loc>https://cifoteam.github.io/gameBoardStats/backend/uml.html</loc>
-    <lastmod>2023-06-06T19:18:59.646Z</lastmod>
+    <loc>https://cifoteam.github.io/gameBoardStats/index.html</loc>
+    <lastmod>2023-06-06T21:29:13.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cifoteam.github.io/gameBoardStats/about.html</loc>
+    <lastmod>2023-06-06T21:29:13.826Z</lastmod>
   </url>
   <url>
     <loc>https://cifoteam.github.io/gameBoardStats/frontend/mock-up.html</loc>
-    <lastmod>2023-06-06T19:19:00.062Z</lastmod>
+    <lastmod>2023-06-06T21:29:14.178Z</lastmod>
   </url>
 </urlset>
